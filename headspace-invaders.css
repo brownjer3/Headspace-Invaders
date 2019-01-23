@@ -1,0 +1,23 @@
+.game-container {
+	width: 50%;
+	margin: 50px 350px;
+	background-color: lightgrey;
+}
+
+.facebook, .instagram, .twitter, .pinterest, .reddit, .linkedin {
+	float: left;
+	padding: 2px 0;
+	width: 10%;
+	margin-left: 20px;
+}
+
+.row {
+	overflow: hidden;
+	padding: 5px 5px;
+	width: 50%;
+	margin: 0 25%;
+}
+
+.fab {
+	font-size: 25px;
+}
