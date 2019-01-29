@@ -6,9 +6,9 @@
 
 .facebook, .instagram, .twitter, .pinterest, .reddit, .linkedin {
 	float: left;
-	padding: 2px 0;
-	width: 10%;
-	margin-left: 20px;
+	padding: 2px 2px;
+	width: 5%;
+	margin-left: 30px;
 }
 
 .row {
@@ -20,4 +20,8 @@
 
 .fab {
 	font-size: 25px;
+}
+
+.flip {
+	transform: scaleX(-1);
 }
